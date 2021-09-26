@@ -32,9 +32,7 @@ O desafio consiste em desenvolver uma aplicação que extraia os trending topics
 
 3. Para iniciar a aplicação escreva no terminal `python main.py` 
 
-4. Abra seu navegador e digite `localhost:8081` a página do Mongo Express deverá aparecer como na imagem:
-
-    										 <img src="E:\PROJETO BOOTCAMP\1.png" style="zoom:50%;" />
+4. Abra seu navegador e digite `localhost:8081` a página do Mongo Express deverá aparecer.
 
 5. Em alguns casos a página não obtinha resposta. Esse erro era provocado pelo o Mongo Express não estar rodando de verdade, o que era constatado ao checar no Docker Desktop. Ao rodar novamente o Express, a página obtinha resposta
 
