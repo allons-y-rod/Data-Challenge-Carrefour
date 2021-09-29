@@ -14,7 +14,7 @@ O desafio consiste em desenvolver uma aplicação que extraia os trending topics
 
 1. A pasta **data-challenge** contém a aplicação principal responsável por extrair os trending topics.
 
-1. A pasta **exploratory-analysis** contém a aplicação secundária em um jupyter notebook, utilizado para realizar a análise exploratória do trending topic escolhido. Os datasets extraídos tanto pela aplicação principal quanto pela secundária também estão neste diretório.
+1. A pasta **exploratory-analysis** contém a aplicação secundária em um jupyter notebook, utilizado para realizar a análise exploratória do trending topic escolhido. Os datasets extraídos tanto pela aplicação principal quanto pela secundária também estão neste diretório. Obs:Aconselha-se abrir o arquivo no jupyter notebook para melhor visualização dos dados. 
 
 1. A pasta **data-visualization** contém as imagens criadas para a visualização dos dados a partir de bibliotecas do **Python** e também do **MicroStrategy**.
 
